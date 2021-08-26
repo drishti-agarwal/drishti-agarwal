@@ -1,7 +1,7 @@
 <!-- <div align="center">
 <img width="100%" height = "370px" src="https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/My%20Post.jpg" alt="cover" />
 </div> -->
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/dcbf2d8fa07d727eec5fb97d8996e724.jpg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/dcbf2d8fa07d727eec5fb97d8996e724.jpg" />
 
 <h1> Hello Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
