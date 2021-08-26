@@ -13,7 +13,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/dcbf2d8fa07d727eec5fb97d8996e724.jpg" />
 
 
 - 🔭 I’m currently working on open-source flutter and machine learning projects. 
@@ -30,8 +30,15 @@
 <a href= https://github.com/drishti-agarwal?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/drishti-agarwal?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 <a href= https://github.com/drishti-agarwal?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/drishti-agarwal?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/934a7c49eb8c40a15728d328380adf42d9deda3c/numpy.svg'> </a>
+<a href= https://github.com/drishti-agarwal?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/5997976.png'> </a>
 <a href= https://github.com/drishti-agarwal?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href= https://github.com/drishti-agarwal?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= https://github.com/drishti-agarwal?tab=repositories&q=&type=&language=github&sort= > <img width ='55px' src ='https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/streamlit.png'> </a>
+<a href= https://github.com/drishti-agarwal?tab=repositories&q=&type=&language=github&sort= > <img width ='55px' src ='https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/arduino-logo-png-transparent.png'> </a>
+
+
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -43,9 +50,9 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/drishti-agarwal?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![Metrics](https://github-readme-stats.vercel.app/api?username=drishti-agarwal&theme=radical&show_icons=true)
 
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+
