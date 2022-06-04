@@ -3,7 +3,7 @@
 </div> -->
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/dcbf2d8fa07d727eec5fb97d8996e724.jpg" />
 
-<h1> Hello Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=drishti-agarwal.drishti-agarwal)
