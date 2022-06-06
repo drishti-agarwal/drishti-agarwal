@@ -17,9 +17,9 @@
 <!-- <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/dcbf2d8fa07d727eec5fb97d8996e724.jpg" />
  -->
 
-- 🔭 I’m currently working on open-source flutter and machine learning projects. 
+- 🔭 I’m currently working on machine learning projects. 
 
-- 🌱 I’m currently learning Flutter and Natural Language Processing. 
+- 🌱 I’m currently learning SQL and Natural Language Processing. 
 
 - 👯 I’m looking to collaborate on data science projects and technical articles. 
 
