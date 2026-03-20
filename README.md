@@ -142,6 +142,6 @@ drishti = {
 
 *"Started with ETL. Ended up building agents. Still debugging."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=drishti-agarwal&color=29B5E8&style=flat-square)
+
 
 </div>
