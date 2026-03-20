@@ -19,7 +19,7 @@
 
 ---
 
-## `whoami`
+## In Plain English
 
 ```python
 drishti = {
