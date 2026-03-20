@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/Orange Gradient Hello Discord Profile Banner.jpg" width="100%" alt="Drishti Agarwal" />
+  <img src="https://raw.githubusercontent.com/drishti-agarwal/drishti-agarwal/main/display.png" width="100%" alt="Drishti Agarwal" />
 
 
 ### Data Engineer → GenAI Explorer → Predictive Analytics Enthusiast
